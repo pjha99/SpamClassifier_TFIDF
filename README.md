@@ -22,12 +22,12 @@ This project requires **Python** and the following Python libraries installed:
 - [scikit-learn](http://scikit-learn.org/stable/)
 
 ## Project Description
-###The example is based on a dataset that is publicly available from the UCI Machine Learning Repository.
-###This Project is created with the purpose to  Identify whether the given sentence is a spam or not.
-###The Steps Involved are:
-*1.)Data preprocessing.
-*2.)Createing a TF-IDF model.
-*3.)Performing the Classification on the created vectors from TF_IDF.
+### * The example is based on a dataset that is publicly available from the UCI Machine Learning Repository.
+### * This Project is created with the purpose to  Identify whether the given sentence is a spam or not.
+### * The Steps Involved are:
+* 1.)Data preprocessing.
+* 2.)Createing a TF-IDF model.
+* 3.)Performing the Classification on the created vectors from TF_IDF.
 
 ## Train and Test Data
  80% data is used to train while 205 is used for testing the model.
@@ -39,7 +39,7 @@ This project requires **Python** and the following Python libraries installed:
 
 
 ## Metrics Used to determine results:
-*Precision
-*Recall
-*F1-Score
-*Accuracy
+* Precision
+* Recall
+* F1-Score
+* Accuracy
