@@ -23,9 +23,11 @@ This project requires **Python** and the following Python libraries installed:
 
 ## Project Description
 The example is based on a dataset that is publicly available from the UCI Machine Learning Repository.
-
-
-Field BareNuc is a categorical feature, we will be using one hot encoding to convert it into the numerical Value.
+This Project is created with the purpose to  Identify whether the given sentence is a spam or not.
+The Stepa Involved are:
+1.)Data preprocessing.
+2.)Createing a TF-IDF model.
+3.)Performing the Classification on the created vectors from TF_IDF.
 
 ## Train and Test Data
  80% data is used to train while 205 is used for testing the model.
